@@ -2,7 +2,7 @@
 Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/drive/1VyBBgJAV9K8taOBNxEUL5l-LeU7_1lj9?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VyBBgJAV9K8taOBNxEUL5l-LeU7_1lj9?usp=sharing)
 [![DOI](g/badge/DOI/10.5281/zenodo.3605363.svg)](TODO)
 
 
