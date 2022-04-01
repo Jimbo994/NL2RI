@@ -6,7 +6,7 @@ Predicting RP-LC retention indices of structurally unknown chemicals from mass s
 #TODO: add DOI
 
 (Placeholder image)
-<img src="/images/descripts_to_RI-correlation_plots_with_dist_train.png" width="300"/> <img src="/images/descripts_to_RI-correlation_plots_with_dist_test.png" width="300"/> 
+<img src="/images/descripts_to_RI-correlation_plots_with_dist_train.png" width="350"/> <img src="/images/descripts_to_RI-correlation_plots_with_dist_test.png" width="350"/> 
 
 
 ## Installation
