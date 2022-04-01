@@ -29,7 +29,7 @@ from predict import *
 model_descriptors_to_ri = joblib.load('models/descs_to_RI_40_model.sav')
 
 # load leverage matrix to check for applicability domain
-leverage_matrix = pd.read_csv('models/leverage_mat_train40', index_col=0)
+leverage_matrix = pd.read_csv('leverage_matrices/leverage_mat_train40', index_col=0)
 
 # load some example data
 data = pd.read_csv('dataset/small_norman.csv')
@@ -48,7 +48,7 @@ from predict import *
 
 # Load model
 model_desc_to_RI = joblib.load('models/nl_to_ri_4220_model.sav')
-leverage_matrix = pd.read_csv('models/leverage_mat_train_NL_100k_4220feats.csv', index_col=0)
+leverage_matrix = pd.read_csv('leverage_matrices/leverage_mat_train_NL_100k_4220feats.csv', index_col=0)
 
 # Load data
 data_nl = pd.read_csv('dataset/small_amide_nls.csv', index_col=0)
